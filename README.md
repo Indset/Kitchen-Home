@@ -9,7 +9,6 @@ A modern and responsive frontend web design for a home-cooked food delivery serv
 👉 [here link to view the live site] 
 file:///C:/Users/mdkam/josh%20tech%20project/New%20folder/Kitchen%20Home%20kamran.html
 
-
 ---
 
 ## 📌 Features
