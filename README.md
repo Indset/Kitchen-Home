@@ -6,7 +6,7 @@ A modern and responsive frontend web design for a home-cooked food delivery serv
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://yourusername.github.io/Kitchen-Home/)  
+👉 [Click here to view the live site]([https://yourusername.github.io/Kitchen-Home/](https://github.com/Indset/Kitchen-Home/blob/main/Kitchen%20Home%20kamran.html))  
 _(Replace `yourusername` with your GitHub username once deployed)_
 
 ---
